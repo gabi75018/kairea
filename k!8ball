@@ -1,0 +1,7 @@
+$nomention
+$color[FF0000]
+
+🔔 **Ta question était : `$message`**
+
+$description[$randomText[:8ball: **$username**, certainement pas.;:8ball: **$username**, très probable.;:8ball: **$username**, concentre toi et demande moi à nouveau.;:8ball: **$username**, très douteux.;:8ball: **$username**, les signes indiquent que oui.;:8ball: **$username**, je ne préfère pas te le dire maintenant.;:8ball: **$username**, comme je le vois, oui.;:8ball: **$username**, ne compte pas sur lui.;:8ball: **$username**, il serait temps d'arrêter.;:8ball: **$username**, je n'ai pas envie de te répondre.]]
+$cooldown[6s;**Merci de patienter 5 secondes**]
