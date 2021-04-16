@@ -1,0 +1,8 @@
+$nomention
+$kickMention[$noMentionMessage]
+$onlyPerms[kick;:mouais: tu croyais vraiment pouvoir kick?]
+$title[kick 👢]
+$description[<@$mentioned[<]> a été kick!]
+$footer[c'est ce qui arrive quand on respecte pas le règlement!😤]
+$color[ff5500]
+$argsCheck[>2;:nolikekappa: Faites k!kick (membre à kick)+raison!]
