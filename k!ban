@@ -1,0 +1,8 @@
+$nomention
+$onlyPerms[ban;tu croyais vraiment pouvoir ban?]
+$title[ban 🔨]
+$description[<@$mentioned[<]> a été ban!]
+$footer[c'est ce qui arrive quand on respecte pas le règlement!😤]
+$color[ff0000]
+$ban[$noMentionMessage]
+$argsCheck[>2;❌ Faites k!ban (membre à ban)+raison!]
