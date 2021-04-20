@@ -13,8 +13,8 @@ Le profil du bot à été crée en 2021.
 AQR_Rastiq#1543
 
 # Actualité récente 
-› 16/04/2021 : Le bot est open-source
+› 16/04/2021 : Le bot est `open-source`
 
-› 20/04/2021 : Les codes sont en `ajouts`.
+› 20/04/2021 : Codes en `ajouts`.
 
-› 20/04/2021 : Test Webhooks
+› 20/04/2021 : Test `Webhooks`
