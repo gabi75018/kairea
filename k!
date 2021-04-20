@@ -1,0 +1,12 @@
+//////Zone a supprimer//////
+» Commande a faire sur un serveur 
+////////////////////////////
+
+›  $getServerInvite
+$nomention
+$title[» Lien provisoire «]
+$description[**Voici le lien du serveur demandé :**
+
+› Invitations : $getServerInvite]
+$footer[]
+$color[ffffff]
