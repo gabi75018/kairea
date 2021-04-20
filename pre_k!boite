@@ -1,0 +1,17 @@
+$nomention
+
+$title[Casino Premium]
+$description[`↪` | **Avant toute chose prenez note que :**
+
+```
+1 • Les récompenses sont illimités 
+2 • Seule les premium ont accès à cette commande
+```
+
+`🔎` | **Tirage au sort dans : 5 secondes**
+
+$editIn[13s;$randomText[**Résultats `📈`** __Bravo a vous, soyez fier vous avez gagner une commande personnaliser !__;**Résultats** `📉` __Dommage... Tu n'a rien gagner. C'était sur ! Recommence dans quelques minutes__;**Résultats** `📉📈` __Comment te dire que tu n'a pas gagner, cependant tu peut offrir premium a la personne de ton choix et lui donner accès a cette commande__;**Résultats** `📉` __Vide ! Tu n'a rien gagner cette fois ci. Ne perd pas espoirs. Respire et réessaye.__]]]
+
+$footer[Tirage au sort 100% hasard]
+
+$onlyForIDs[812273085381345300;689089812669399076;700374770276892808;719463073416609854;@769170633153708042;432116536866766849;432116536866766849;🔒 • **Vous n'êtes pas __premium__**]
