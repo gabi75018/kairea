@@ -8,7 +8,7 @@ Le profil du bot à été crée en 2021.
 > Développement :
 ๖̶ζ͜͡Lélythe [🎭]#6938
 
-> Testeur(s) :
+> Testeur(s) et direction github :
 AQR_Rastiq#1543
 
 # Actualité
