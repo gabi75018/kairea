@@ -1,0 +1,17 @@
+$nomention
+$title[PFC dev'bot]
+$description[PIERRE FEUILLE CISEAUX
+
+💣Resultat : __5 secondes__💣]
+
+$editIn[5s;***Toi*** > $message - ***Moi*** >  $randomText[pierre;feuille;ciseaux;Volcan de la mort qui tue !!!!!!]]
+
+$cooldown[5s;**Merci de patienter 5 secondes.**]
+
+
+
+
+$footer[Tu as gagner ? cela m'étonnerait.]
+$color[ffffff]
+
+$argCount[**__Pense a ajouter derrière la commande : pierre papier ou ciseaux !__**]
