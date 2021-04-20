@@ -3,7 +3,7 @@ Ceci est la page github de Kairea.
 
 Le profil du bot à été crée en 2021.
 
-# Equipe de Kairea | ❔
+# Equipe Kairea | ❔
 
 > Développement :
 ๖̶ζ͜͡Lélythe [🎭]#6938
