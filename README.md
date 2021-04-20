@@ -16,6 +16,6 @@ AQR_Rastiq#1543
 # Actualité | 📰
 › 16/04/2021 : Le bot est `open-source`
 
-› 20/04/2021 : Codes en `ajouts`.
+› 20/04/2021 : Codes publique ajoutés.
 
 › 20/04/2021 : Test `Webhooks 2`
