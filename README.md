@@ -8,9 +8,11 @@ le profil du bot à été crée en 2021. Kairea est un bot open source ayant com
 » Retrouvez kairea sur le **botty support**.
 
 > **Développement**
+
 `๖̶ζ͜͡Lélythe [🎭]#6938`.
 
 > **Testeur(s) et direction github** :
+
 `AQR_Rastiq#1543`.
 
 # Actualité 
