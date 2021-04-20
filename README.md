@@ -13,4 +13,4 @@ AQR_Rastiq#1543
 
 # Actualité
 
-16/04/2021 : Le bot est enfin open-source !
+16/04/2021 : Le bot est enfin **__open-source__** !
