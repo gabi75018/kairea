@@ -1,6 +1,6 @@
 # Kairea 
-Ceci est la page github de Kairea.
-Le profil du bot à été crée en 2021.
+Ceci est la page github de Kairea,
+le profil du bot à été crée en 2021.
 
 
 # Equipe Kairea 
