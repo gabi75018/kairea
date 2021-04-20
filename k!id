@@ -1,0 +1,7 @@
+$deletecommand
+$nomention
+$title[**ID du salon**] 
+$description[$channelID] 
+$color[$random[0;999999]] 
+$footer[]
+$footerIcon[$authorAvatar] 
