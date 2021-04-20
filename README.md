@@ -3,7 +3,7 @@ Ceci est la page github de Kairea,
 le profil du bot à été crée en 2021.
 
 
-# Equipe Kairea 
+# Equipe Kairea
 
 » Retrouvez kairea sur le **botty support**.
 
