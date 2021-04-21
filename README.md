@@ -15,6 +15,10 @@ le profil du bot à été crée en 2021. Kairea est un bot open source ayant com
 
 `AQR_Rastiq#1543`.
 
+> **Testeurs** :
+
+`!bêta wolfyλ#0911`
+
 # Actualité 
 › 16/04/2021 : Le bot est `open-source`
     → **13**:**56**
