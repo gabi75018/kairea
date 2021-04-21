@@ -17,6 +17,6 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 
 **Général** : `k!général`
 
-> ℹ Vous ne pouvez exercer ces commandes uniquement si le boy est sur votre serveur.
+> ℹ Vous ne pouvez exercer ces commandes uniquement si le bot est sur votre serveur.
 
 
