@@ -36,4 +36,6 @@ le profil du bot à été crée en 2021. Kairea est un bot open source ayant com
     → **9**:**47**
 
 # Nous contacter 
-*Prochainement disponible*
+
+Bot : **https://www.kaireabot.tk/**
+Support : **https://discord.gg/YFu5eRPRGP**
