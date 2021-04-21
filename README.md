@@ -26,12 +26,6 @@ le profil du bot à été crée en 2021. Kairea est un bot open source ayant com
 › 20/04/2021 : Codes publique ajoutés.
     → **18**:**34**
 
-› 20/04/2021 : Test `Webhooks`
-    → **18**:**54**
-
-› 20/04/2021 : Test `Modif AQR_Rastiq`
-    → **20**:**40**
-
 › 21/04/2021 : Création site web
     → **9**:**47**
 
@@ -40,3 +34,6 @@ le profil du bot à été crée en 2021. Kairea est un bot open source ayant com
 Bot : **https://www.kaireabot.tk/** 
 
 Support : **https://discord.gg/YFu5eRPRGP**
+
+```test
+Test```
