@@ -20,5 +20,5 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 > ℹ Vous ne pouvez exercer ces commandes uniquement si le bot est sur votre serveur.
 
 # Histoires wiki
-[Histoire du 22/04/2021](https://github.com/gabi75018/kairea.wiki.git)** **_DISPONIBLE_**
-> discordhttps://github.com/gabi75018/kairea.wiki.git)
+**[Histoire du 22/04/2021](https://github.com/gabi75018/kairea.wiki.git)** **_DISPONIBLE_**
+**[pourquoi discord a se nom ?](discordhttps://github.com/gabi75018/kairea.wiki.git)**
