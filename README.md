@@ -19,4 +19,5 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 
 > ℹ Vous ne pouvez exercer ces commandes uniquement si le bot est sur votre serveur.
 
-
+# Wiki 
+**[Histoire du 22/04/2021](https://github.com/gabi75018/kairea.wiki.git)**
