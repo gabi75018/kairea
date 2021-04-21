@@ -1,6 +1,6 @@
 # Kairea 
-Ceci est la page github de Kairea,
-le profil du bot à été crée en 2021. Kairea est un bot open source ayant comme préfixe : **k!**
+`Ceci est la page github de Kairea,
+le profil du bot à été crée en 2021. Kairea est un bot open source ayant comme préfixe : **k!**`
 
 
 # Equipe Kairea
@@ -35,5 +35,4 @@ Bot : **https://www.kaireabot.tk/**
 
 Support : **https://discord.gg/YFu5eRPRGP**
 
-```test
-Test```
+
