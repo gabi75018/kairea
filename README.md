@@ -9,4 +9,14 @@ Serveur support : **[Clique ici](https://discord.gg/ZEGUq4y2wh)**
 
 Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?client_id=812273085381345300&scope=bot%20applications.commands&permissions=2147483647)**
 
+# Commandes 
+
+**Modération** : `k!admin`
+
+**Divertissement** : `k!fun`
+
+**Général** : `k!général`
+
+> ℹ Vous ne pouvez exercer ces commandes uniquement si le boy est sur votre serveur.
+
 
