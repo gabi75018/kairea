@@ -1,5 +1,5 @@
 # Introduction
-Kairea. Kairea est un robot discord **open source** ayant comme objectif vous aider sur discord. Par mis ses nombreuses commandes de modération, de divertissement ainsi que des modules de tickets. Le bot comprend depuis le `18/04/2021` un module premium gratuit **si vous avez ajoutez kairea sur un serveur dont voudrait étes propriétaire**.
+Kairea. Kairea est un robot discord **open source** ayant comme objectif vous aider sur discord. Parmis ses nombreuses commandes de modération, de divertissement ainsi que des modules de tickets. Le bot comprend depuis le `18/04/2021` un module premium gratuit **si vous avez ajoutez kairea sur un serveur dont voudrait étes propriétaire**.
 
 # Liens 
 
