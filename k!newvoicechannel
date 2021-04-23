@@ -1,0 +1,8 @@
+$onlyAdmin[:x: Seuls les administrateurs peuvent exécuter cette commande !]
+$argsCheck[>1;:x: Veuillez entrer un nom de salon !]
+$createChannel[$message;voice]
+$title[Salon créé !]
+$description[Votre salon a bien été créé !]
+$footer[Commande développée par AQR_Rastiq#1543]
+$deleteIn[10s]
+$deletecommand
