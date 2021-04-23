@@ -1,0 +1,10 @@
+$onlyAdmin[:x: Seuls les administrateurs peuvent exécuter cette commande !]
+$argsCheck[>2;:x: Veuillez entrer un **ID** de salon et un nouveau nom de salon!]
+$onlyIf[$isNumber[$message[1]]==true;:x: Vous devez entrer un **ID** de salon !]
+$onlyIf[$channelExists[$message[1]]==true;:x: Vous devez entrer un **ID** de salon valide !]
+$modifyChannel[$message[1];$message[>2]]
+$title[Salon supprimé !]
+$description[Votre salon a bien été supprimé !]
+$footer[Commande développée par AQR_Rastiq#1543]
+$deleteIn[10s]
+$deletecommand
