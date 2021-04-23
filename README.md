@@ -22,7 +22,10 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 # Nouveautés
 
 > `k!stats` devient `k!info` !
+> `k!create_textuel/vocal`
+> `k!delete_textuel/vocal`
 
 - [ ] Kairea a besoin de la perm admin.
 - [ ] Kairea demande un rôle "bot"
+- [ ] Mettez un "Star" github ;)
 
