@@ -23,4 +23,4 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 
 > `k!stats` devient `k!info` !
 
-- [] Kairea a besoin de la perm admin.
+- [ ] Kairea a besoin de la perm admin.
