@@ -1,6 +1,7 @@
 # Introduction
+**Bienvenu sur la version 1.7**
 
-*`La version 1.7 est disponible le 23/04 à 19h, a cette occasion nous réécrivons cette partie.`*
+> ℹ • Votre équipe développement vous a ajouter quelques commandes pour cette nouvelle version. C'est les commandes de la page k!channel, avec cette page vous pourrez créé des salons et les supprimer. La commande k!slowmode fait également son apparition. Vous pourrez configurer votre slowmode depuis une simple commande qui demande l'id du salon. Bonne version 1.7 !
 
 # Liens 
 
@@ -22,4 +23,13 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 
 # Nouveautés
 
-**Version `1.7` ce soir 19h, a cette occasion cette espace est libérer pour l'explication des nouvelles commandes.**
+**Version `1.7`**
+
+- [ ] k!channel
+
+     - k!createvocal/textuel <name>
+
+     - k!deletevocal/textuel <name>
+
+     - k!slowmode <id> <nbr>
+
