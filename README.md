@@ -1,7 +1,7 @@
 # Introduction
-**Bienvenu sur la version 1.7**
+**Bienvenue sur la version 1.7**
 
-> ℹ • Votre équipe développement vous a ajouter quelques commandes pour cette nouvelle version. C'est les commandes de la page k!channel, avec cette page vous pourrez créé des salons et les supprimer. La commande k!slowmode fait également son apparition. Vous pourrez configurer votre slowmode depuis une simple commande qui demande l'id du salon. Bonne version 1.7 !
+> ℹ • Votre équipe développement vous à ajouté quelques commandes pour cette nouvelle version. C'est les commandes de la page k!channel, avec cette page vous pourrez créer des salons et les supprimer. La commande k!slowmode fait également son apparition. Vous pouvez configurer votre slowmode depuis une simple commande qui demande l'id du salon. Bonne version 1.7 !
 
 # Liens 
 
