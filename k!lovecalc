@@ -21,5 +21,8 @@ $endif
 $if[$getUserVar[templc]==100]
 $description[La force de ce sentiment entre $username et <@$mentioned[1]> est de $getUserVar[templc]% ! C'est un couple parfait ! 💝]
 $endif
+$image[https://imageapi.aqrrastiq.repl.co/api/lovecalc?id=$random[1;100000]&one=$authorAvatar&two=$userAvatar[$mentioned[1]]]
+$footerIcon[$userAvatar[$botID]]
+$footer[LoveCalc | API et commande développés par AQR_Rastiq#1543]
 $color[FFC0CB]
 $nomention
