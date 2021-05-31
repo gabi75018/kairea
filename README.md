@@ -33,3 +33,4 @@ Ajoute directement le bot : **[clique ici](https://discord.com/oauth2/authorize?
 
      - k!slowmode <id> <nbr>
 
+![Nouveauté](https://media.discordapp.net/attachments/795225879008903188/848839463367081994/unknown.png)
